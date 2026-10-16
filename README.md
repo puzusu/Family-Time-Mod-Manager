@@ -6,7 +6,7 @@ A standalone Windows app for managing BepInEx plugins for **Family Time b108**. 
 
 ## Download
 
-Download the latest `[FamilyModManager-*-b108.exe](https://github.com/puzusu/Family-Time-Mod-Manager/releases/download/mod/FamilyModManager-0.8.2-b108.exe)` from the **Releases** section. The application is self-contained; users do not need to install .NET separately.
+Download the latest [FamilyModManager-*-b108.exe](https://github.com/puzusu/Family-Time-Mod-Manager/releases/download/mod/FamilyModManager-0.8.2-b108.exe) from the **Releases** section. The application is self-contained; users do not need to install .NET separately.
 
 The executable is distributed as a GitHub Release asset rather than committed to the source repository. This keeps the repository focused on reviewable source and avoids storing large binaries in Git history.
 
