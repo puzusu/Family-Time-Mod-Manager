@@ -2,7 +2,7 @@
 
 A standalone Windows app for managing BepInEx plugins for **Family Time b108**. It provides a game-styled interface for installing BepInEx, adding plugins, and enabling or disabling them between game sessions.
 
-![Family Mod Manager interface](docs/manager-ui.png)
+![Family Mod Manager interface](manager-ui.png)
 
 ## Download
 
