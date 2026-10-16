@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>FamilyModManager</AssemblyName>
+    <RootNamespace>FamilyModManager</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\*.png" />
+    <EmbeddedResource Include="Assets\*.ttf" />
+    <EmbeddedResource Include="Assets\*.txt" />
+    <EmbeddedResource Include="Assets\*.zip" />
+    <Compile Remove="release\**\*.cs" />
+    <Compile Remove="nexus-review\**\*.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+single-file-publish/
+share/
+*.pdb
+*.user
+*.suo
+
+# Private or game-derived build assets
+Assets/frame.png
+Assets/control-frame.png
+Assets/BepInEx_win_x64_5.4.23.5.zip
+Assets/FamilyTime-b108-unstripped-compat.zip
+
+# Local editor files
+.vs/
+.vscode/
